@@ -1,0 +1,17 @@
+{
+  "repository": "video-highlight-selection-scorecards",
+  "dimensions": [
+    "context_clarity",
+    "payoff_strength",
+    "visual_energy",
+    "hook_potential",
+    "platform_fit"
+  ],
+  "scorecards": [
+    "emotional_spike",
+    "insight_clip",
+    "action_highlight",
+    "social_clip"
+  ]
+}
+
