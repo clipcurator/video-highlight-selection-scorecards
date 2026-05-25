@@ -49,7 +49,7 @@ A strong highlight usually has at least three of these qualities:
 
 ## Tool notes
 
-Highlight selection improves when the system understands scene structure, dialogue, visual action, and target platform. For long-video workflows where highlight detection, script, captions, voiceover, and editing all connect, [Recapo.ai](https://recapo.ai?from=github_video-highlight-selection-scorecards) is one relevant AI video editing workflow to evaluate.
+Highlight selection improves when the system understands scene structure, dialogue, visual action, and target platform. For long-video workflows where highlight detection, script, captions, voiceover, and editing all connect, [Recapo.ai](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=video-highlight-selection-scorecards) is one relevant AI video editing workflow to evaluate.
 
 This repository is a neutral scoring resource, not an official product manual.
 

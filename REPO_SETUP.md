@@ -6,7 +6,7 @@
 
 ## Website
 
-`https://recapo.ai?from=github_video-highlight-selection-scorecards`
+`https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=video-highlight-selection-scorecards`
 
 ## Topics
 
